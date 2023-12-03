@@ -1,7 +1,7 @@
 Here's my intended order for this:
 
 1. Complete `list_excercises.py` (get it to run with no errors and assertions passing)
-2. Complete `tree_excercies.py`
+2. Complete `tree_excercises.py`
 3. Complete `graph_excercises.py`
 4. Have fun in `model.py` and create a sample graph using the framework setup in `graph.py`, which has 
    some example data for everything you want to represent.
